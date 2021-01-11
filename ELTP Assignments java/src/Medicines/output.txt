@@ -1,0 +1,25 @@
+Details of Medicine : 
+------------------
+Name : MediShop
+Address : In market
+=================================
+Details of tablet : 
+------------------
+Name : TabShop
+Address : Dry Area Market
+Discription : Kept in dry area
+Material : Solid
+=================================
+Details of syrup : 
+------------------
+Name : SyrupStore
+Address : Center Market
+Discription : Kept in any area
+Material : Liquid
+=================================
+Details of ointment : 
+------------------
+Name : OitnmentShop
+Address : Outside Market
+Discription : For external use
+Material : Oil
