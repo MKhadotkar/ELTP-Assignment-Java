@@ -1,0 +1,38 @@
+   
+1. Find the total of even numbers present in an array
+2. Print all even and multiple of 5 numbers from an array
+		if(no%2==0 && no%5==0)
+
+3. Find the total characters present in a String
+4. Find the total vowels present in a String
+5. Find the total spaces present in a String
+6. Print the following patterns
+
+6.1
+	1
+	1 2
+	1 2 3
+	1 2 3 4
+	1 2 3
+	1 2
+	1
+
+6.2 for a given sting print following pattern 
+	for eg if i/p str = Hello
+
+	H
+	H e
+	H e l
+	H e l l
+	H e l l o
+
+6.3  For entered String Split String using spaces and print word on each line
+	for eg   String str=" This is a Java World";
+
+	expected Output
+	
+	This
+	is
+	a
+	Java
+	World
