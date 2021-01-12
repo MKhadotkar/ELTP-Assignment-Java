@@ -1,0 +1,16 @@
+I am animal...
+---------------------------
+I am dog..
+Name : tommy
+Color : black
+Sound : Bow Bow
+---------------------------
+I am cat..
+Name : abc
+Color : white
+Sound : myau myau
+---------------------------
+I am kitten..
+Name : xyz
+Color : blackAndWhite
+Sound : somekittensound
