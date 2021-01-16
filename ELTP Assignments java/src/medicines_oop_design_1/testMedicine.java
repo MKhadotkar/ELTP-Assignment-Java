@@ -1,4 +1,4 @@
-package Medicines;
+package medicines_oop_design_1;
 
 import java.util.Random;
 

@@ -1,12 +1,12 @@
-package Medicines;
+package medicines_oop_design_1;
 
-public class syrup extends medicine {
+public class ointment extends medicine {
 	
 	private String material;	
 	private String discription;
 	
 	
-	public syrup() {
+	public ointment() {
 		super();
 		
 	}
@@ -24,7 +24,7 @@ public class syrup extends medicine {
 		this.discription = discription;
 	}
 
-	public syrup(String name,String address,String material, String discription) {
+	public ointment(String name,String address,String material, String discription) {
 		super();
 		this.setName(name);
 		this.setAddress(address);
@@ -35,7 +35,7 @@ public class syrup extends medicine {
 	@Override
 	void displayLab()
 	{	
-		System.out.println("Details of syrup : ");
+		System.out.println("Details of ointment : ");
 		System.out.println("------------------");
 		System.out.println("Name : "+this.getName());
 		System.out.println("Address : "+this.getAddress());
