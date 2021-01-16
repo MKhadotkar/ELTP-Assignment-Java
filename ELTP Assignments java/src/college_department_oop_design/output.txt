@@ -1,0 +1,43 @@
+Student Details
+-----------------------------------
+Student name : Mayank
+Student age : 21
+Student ID : 111
+-----------------------------------
+Graduate Student Details
+-----------------------------------
+Student name : Suyash
+Student age : 21
+Student ID : 121
+Student's Year Of Passing : 2020
+-----------------------------------
+Under Graduate Student Details
+-----------------------------------
+Student name : Pranav
+Student age : 20
+Student ID : 132
+Student's Year Of Studing : Third
+-----------------------------------
+Faculty Details
+-----------------------------------
+Faculty name : Varun
+Faculty age : 25
+Faculty ID : 144
+Faculty Experiance : 2
+-----------------------------------
+Graduate Faculty Details
+-----------------------------------
+Faculty name : Sakshi
+Faculty age : 32
+Faculty ID : 123
+Faculty's Year Of Passing : 2013
+Faculty Salary : 50000.0
+-----------------------------------
+Under Graduate Faculty Details
+-----------------------------------
+Faculty name : Prajwal
+Faculty age : 23
+Faculty ID : 156
+Faculty's Year Of studing : second
+Faculty Salary : 50000.0
+-----------------------------------
